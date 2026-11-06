@@ -1,0 +1,18 @@
+
+[
+    {
+        "titulo": "Dispensador automatico para animales",
+        "descripcion": "Proyecto de un dispensador automatico de comida y agua para mascotas.",
+        "tecnologias": ["ESP32", "Sensores", "Programacion"]
+    },
+    {
+        "titulo": "Ficha de futbolista",
+        "descripcion": "Pagina web que muestra informacion de un jugador de futbol.",
+        "tecnologias": ["HTML", "CSS", "Flexbox"]
+    },
+    {
+        "titulo": "Verificador de contraseñas",
+        "descripcion": "Programa que permite comprobar la seguridad de una contraseña.",
+        "tecnologias": ["HTML", "CSS", "JavaScript"]
+    }
+]
